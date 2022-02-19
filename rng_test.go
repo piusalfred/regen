@@ -17,9 +17,8 @@ limitations under the License.
 package regen
 
 import (
-	"testing"
-
 	. "github.com/smartystreets/goconvey/convey"
+	"testing"
 )
 
 func TestXorShift64(t *testing.T) {

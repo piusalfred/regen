@@ -18,9 +18,8 @@ package regen
 
 import (
 	"errors"
-	"testing"
-
 	. "github.com/smartystreets/goconvey/convey"
+	"testing"
 )
 
 func TestGeneratorError(t *testing.T) {
